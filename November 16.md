@@ -2,6 +2,9 @@
 
 ## Description
 
+1.5 hours outside class on Wednesday?
+1.5 hours Saturday
+
 **TODO:** Fill in this part with information about your work this week:
 important design decisions, changes to previous decisions, open questions,
 exciting milestones, preliminary results, etc. Feel free to include images
